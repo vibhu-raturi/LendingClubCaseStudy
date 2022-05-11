@@ -15,7 +15,7 @@
 ## General Information
 - Project is called Lending Club Case Study
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default and utilize this knowledge for its portfolio and risk assessment.
-- The dataset used here is 'loan.csv' which has all the details required for an applicant for loan approval
+- The dataset used here is 'loan.csv' which has all the details required for loan approval
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
